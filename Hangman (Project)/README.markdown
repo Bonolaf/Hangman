@@ -1,5 +1,3 @@
-Instruction
-How to run
 # NGUYEN Minh An
 # IR2 2025-2026
 # ------ HANGMAN ------ #
