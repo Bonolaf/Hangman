@@ -9,7 +9,7 @@ public class Database {
     // init
     public String url = "jdbc:mariadb://localhost:3306/hangman";
     public String user = "root";
-    public String password = "Bon@20022006";
+    public String password = "password";
     public Connection connection;  // for connection to MySQL
 
     public Database(){  // connect database
